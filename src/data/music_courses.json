@@ -1,0 +1,64 @@
+{
+    "courses": [
+    {
+        "id": 1,
+        "title": "Guitar Fundamentals",
+        "slug": "guitar-fundamentals",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Piano Fundamentals",
+        "slug": "piano-fundamentals",
+        "description": "Learn the basics of playing piano with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/piano.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Drum Fundamentals",
+        "slug": "drum-fundamentals",
+        "description": "Learn the basics of playing drum with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/drum.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Singing Fundamentals",
+        "slug": "singing-fundamentals",
+        "description": "Learn the basics of singing with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "Arijit Singh",
+        "isFeatured": true,
+        "image": "/courses/singing.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Classical Singing Fundamentals",
+        "slug": "classical-singing-fundamentals",
+        "description": "Learn the basics of classical singing with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "Arijit Singh",
+        "isFeatured": true,
+        "image": "/courses/classical.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Stage Performance Fundamentals",
+        "slug": "performance-fundamentals",
+        "description": "Learn the how to perform in a band with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "Arijit Singh",
+        "isFeatured": true,
+        "image": "/courses/stage.jpg"
+    }
+  ]   
+}
